@@ -1,0 +1,8 @@
+name: BetterMidPick
+version: 1.14.514
+main: com.homo.tadokoro.BetterMidPickPlugin
+api-version: 1.21
+author: Koji_Tadokoro114
+permissions:
+  bettermidpick.copyall:
+    default: true
